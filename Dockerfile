@@ -1,5 +1,5 @@
 FROM python:3.8
-RUN pip install streamlit matplotlib
+RUN pip install streamlit
 COPY src/* /app/
 COPY img/* /app/img/
 WORKDIR /app
