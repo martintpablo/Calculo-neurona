@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image('img/neurona.jpg', width=400)
+st.image('https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg', width=400)
 
 st.title('**¡Hola neurona!**')
 
